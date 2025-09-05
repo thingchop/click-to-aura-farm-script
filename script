@@ -6,7 +6,7 @@ local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "ThingchopGui"
+screenGui.Name = "thingchopGui"
 screenGui.IgnoreGuiInset = true
 screenGui.Parent = playerGui
 
